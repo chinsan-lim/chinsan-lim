@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinsan Lim</h1>
 <h3 align="center">Full Stack Developer // BOS x PDX</h3>
+**teacher, student, coach, hacker**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chinsan-lim&label=Profile%20views&color=0e75b6&style=flat" alt="chinsan-lim" /> </p>
 
@@ -17,7 +18,7 @@
 
 - 📄 [Read about my experiences](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
 
-- ⚡ Fun fact **teacher, student, coach, hacker**
+- ⚡ Fun fact: Semi-professional disc golfer
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
