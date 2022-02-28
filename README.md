@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **clim1994@gmail.com**
 
-- 📄 (Read about my experiences) [https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
+- 📄 [Read about my experiences](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
 
 - ⚡ Fun fact **teacher, student, coach, hacker**
 
