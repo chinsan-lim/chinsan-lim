@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Chinsans's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinsan-lim)](https://github.com/chinsan-lim/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chinsan-lim&layout=compact)](https://github.com/chinsan-lim/github-readme-stats)
