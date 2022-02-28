@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center">
-  [![Chinsans's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinsan-lim)](https://github.com/chinsan-lim/github-readme-stats)
-</img>
+<p align="center">
+
+  [![Chinsans's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinsan-lim)] (https://github.com/chinsan-lim/github-readme-stats)
+
+ </p>
 
 
