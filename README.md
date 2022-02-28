@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chinsan Lim</h1>
 <h3 align="center">Full Stack Developer // BOS x PDX // teacher, student, coach, hacker</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=chinsan-lim&label=Profile%20views&color=0e75b6&style=flat" alt="chinsan-lim" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinsan-lim" alt="chinsan-lim" /></a> </p>
 
 - 🔭 I’m currently working on [Army Physical Training Tracker](https://github.com/army-pt-test)
@@ -33,4 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinsan-lim&show_icons=true&locale=en" alt="chinsan-lim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinsan-lim&" alt="chinsan-lim" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chinsan-lim&label=Profile%20views&color=0e75b6&style=flat" alt="chinsan-lim" /> </p>
 </div>
