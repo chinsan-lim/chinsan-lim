@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Chinsans's GitHub stats](https://github-readme-stats.vercel.app/api?username=chinsan-lim)](https://github.com/chinsan-lim/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=chinsan-lim)
+![visitors](https://visitor-badge.glitch.me/badge?chinsan-lim=chinsan-lim)
