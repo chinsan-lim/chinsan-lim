@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chinsan Lim</h1>
-<h3 align="center">Full Stack Developer // BOS x PDX</h3>
-<h2 align="center">teacher, student, coach, hacker</h2>
+<h3 align="center">Full Stack Developer // BOS x PDX // teacher, student, coach, hacker</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chinsan-lim&label=Profile%20views&color=0e75b6&style=flat" alt="chinsan-lim" /> </p>
 
