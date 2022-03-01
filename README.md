@@ -1,4 +1,3 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Chinsan%20Lim&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h3 align="center">Full Stack Developer // BOS x PDX</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinsan-lim" alt="chinsan-lim" /></a> </p>
