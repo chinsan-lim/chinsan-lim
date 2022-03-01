@@ -1,3 +1,4 @@
+<p><img align="center" src="./banner.gif" alt="banner" /></p>
 <h3 align="center">Full Stack Developer // BOS x PDX</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chinsan-lim" alt="chinsan-lim" /></a> </p>
