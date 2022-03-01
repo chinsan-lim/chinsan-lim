@@ -1,4 +1,4 @@
-<div align="center"><img align="center" src="./banner.gif" alt="banner" /></div>
+<div align="center"><img align="center" src="./banner.gif" alt="banner" />
 <h3 align="center">Full Stack Developer // BOS x PDX</h3>
 
 - 🔭 I’m currently working on [Army Physical Training Tracker](https://github.com/army-pt-test)
@@ -14,7 +14,7 @@
 - 📄 [Read about my experiences](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
 
 - ⚡ Fun fact: Semi-professional disc golfer
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/chinsan-lim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinsan-lim" height="30" width="40" /></a>
