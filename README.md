@@ -7,7 +7,7 @@
 
 👨‍💻 All of my projects are available at: [https://chinsan-lim.github.io/](https://chinsan-lim.github.io/)
 
-💬 Ask me about: **education and community engagement**
+💬 Ask me about: **MERN Stack Development // Equitable Education and Community Engagement**
 
 📫 How to reach me: **clim1994@gmail.com**
 
