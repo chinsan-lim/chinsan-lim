@@ -13,7 +13,7 @@
 
 📄 [Read about my experiences](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
 
-⚡ Fun fact: Semi-professional disc golfer
+⚡ Fun facts: proficient disc golfer, avid chef, rap/country/hip-hop/indie/r&b enthusiast
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
