@@ -1,19 +1,19 @@
 <div align="center"><img align="center" src="./banner.gif" alt="banner" />
 <h3 align="center">Full Stack Developer // BOS x PDX</h3>
 
-- 🔭 I’m currently working on [Army Physical Training Tracker](https://github.com/army-pt-test)
+🔭 I’m currently working on [Army Physical Training Tracker](https://github.com/army-pt-test)
 
-- 🌱 I’m currently learning more **Python for NFL/NBA fantasy projections**
+🌱 I’m currently learning more **Python for NFL/NBA fantasy projections**
 
-- 👨‍💻 All of my projects are available at: [https://chinsan-lim.github.io/](https://chinsan-lim.github.io/)
+👨‍💻 All of my projects are available at: [https://chinsan-lim.github.io/](https://chinsan-lim.github.io/)
 
-- 💬 Ask me about: **education and community engagement**
+💬 Ask me about: **education and community engagement**
 
-- 📫 How to reach me: **clim1994@gmail.com**
+📫 How to reach me: **clim1994@gmail.com**
 
-- 📄 [Read about my experiences](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
+📄 [Read about my experiences](https://docs.google.com/document/d/1q7VB-DXZciAyd6EVTUhmqdtHUE7O5Waa_P0RmHuE_0g/edit?usp=sharing)
 
-- ⚡ Fun fact: Semi-professional disc golfer
+⚡ Fun fact: Semi-professional disc golfer
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
